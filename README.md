@@ -18,3 +18,5 @@ npm install
 
 Start the Development Server:-
 npm run dev
+
+![image alt](https://github.com/raj036/QuizApplication/blob/main/src/assets/SSofAPP.png?raw=true)
